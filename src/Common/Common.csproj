@@ -94,7 +94,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="SoapInspector.cs" />
     <Compile Include="Validation.cs" />
     <Compile Include="ValidationBuilder.cs" />
     <Compile Include="ValidationException.cs" />
