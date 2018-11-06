@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDA.Generator", "CDA.Generator\CDA.Generator.csproj", "{4B542E29-7FA2-4DE2-A828-A197DA3F6B40}"
 EndProject
@@ -108,5 +108,8 @@ Global
 		{717A20F2-0503-4F32-8E6A-745F8609BABE} = {1177813F-D25C-4B13-9D81-F4B69AB5A965}
 		{D3CAE2FF-E5E0-487A-A99D-086422F96805} = {1177813F-D25C-4B13-9D81-F4B69AB5A965}
 		{0C2E6651-A2FD-42A3-B73A-8F3F8CC310D9} = {1177813F-D25C-4B13-9D81-F4B69AB5A965}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66491D3D-4E70-4EA0-BC2E-8975B9D95DE6}
 	EndGlobalSection
 EndGlobal
